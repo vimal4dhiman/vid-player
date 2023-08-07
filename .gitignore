@@ -6,7 +6,8 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-
+.eslintrc.cjs
+.prettierrc.json
 node_modules
 .DS_Store
 dist
